@@ -1,4 +1,3 @@
-![image](https://github.com/basemkasem/basemkasem/assets/69323267/5ea4600b-fecb-4f7b-9add-595959424e4c)
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -8,14 +7,13 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Back-End+Web+developer;Interested+in+microsoft+technologies;Passionate+to+learn+new+things." alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Software Engineer.
 - ⚙️ I'm interested in microsoft technologies.
 - 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C#, Asp.Net or anything related to back-end web development.
-
 
 ### Connect with Me :
 
@@ -32,8 +30,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basemkasem&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=basemkasem&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=basemkasem&style=for-the-badge">
 </a>
