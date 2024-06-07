@@ -10,10 +10,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Back-End+Web+developer;Interested+in+microsoft+technologies;Passionate+to+learn+new+things." alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Software Engineer.
-- ⚙️ I'm interested in microsoft technologies.
+- 🏢 I'm a Software Developer.
+- ⚙️ I'm interested in Backend development.
 - 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, Asp.Net or anything related to back-end web development.
 
 ### Connect with Me :
 
