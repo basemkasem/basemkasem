@@ -37,10 +37,10 @@
 - Deep diving into advanced software design, specifically **Clean Architecture** and **Onion Architecture**.
 
 ### 💻 Featured Projects
-* ⏱️ **[Shifts Logger](#)** - A full-stack shift management application featuring an ASP.NET Core RESTful Web API (EF Core, SQL Server) and an interactive console UI built with Spectre.Console.
-* 🛒 **[E-commerce Web API](#)** - An ongoing API project building robust e-commerce architecture (The C# Academy).
-* 📇 **[Phonebook Console App](#)** - A C# application designed for efficient contact management.
-* 🗂️ **[Flashcards Console App](#)** - A study tool built with C# and database integration for tracking learning sessions.
+* 🛒 **[E-commerce Web API](https://github.com/basemkasem/STUDY.API.EcommerceApi)** - An enterprise-grade REST API for managing e-commerce backend, following Clean Architecture principles for scalability and maintainability.
+* ⏱️ **[Shifts Logger](https://github.com/basemkasem/STUDY.Console.ShiftsLogger)** - A full-stack shift management application featuring an ASP.NET Core RESTful Web API (EF Core, SQL Server) and an interactive console UI built with Spectre.Console.
+* 📇 **[Phonebook Console App](https://github.com/basemkasem/CodeReviews.Console.Phonebook)** - A C# application designed for efficient contact management.
+* 🗂️ **[Flashcards Console App](https://github.com/basemkasem/CodeReviews.Console.CodingTracker)** - A study tool built with C# and database integration for tracking learning sessions.
 
 ---
 
