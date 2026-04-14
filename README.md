@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Backend+.NET+Developer;Computer+Engineering+Graduate;Passionate+about+Software+Architecture" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Backend+.NET+Developer;Computer+Engineering+Graduate;Passionate+about+Software+Development" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Software Developer specializing in the **.NET ecosystem**.
