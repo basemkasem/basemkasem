@@ -50,11 +50,3 @@
     <img src="https://komarev.com/ghpvc/?username=basemkasem&style=for-the-badge">
 </a>
 <br><br>
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basemkasem&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=basemkasem&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=basemkasem&style=for-the-badge">
-</a>
--->
